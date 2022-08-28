@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 👯 I’m looking to collaborate on projects related to datascience and robotics
 
 <!--
 **Vani-Nigam07/Vani-Nigam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
