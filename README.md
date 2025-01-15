@@ -1,10 +1,12 @@
-## Hi there 👋
+## Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 ### 💬 My readme files are not that great, still learning, but do go through my projects!
 
 
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/tusharmit/(https://www.linkedin.com/in/vani-nigam-0707vn/)"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+<a href="vani07nigam@gmail.com"><img src="https://github.com/user-attachments/assets/61a8fb1a-aa1d-43c7-842d-e0955e41bb6b)" width="40"></a>
 <!--
 **Vani-Nigam07/Vani-Nigam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
