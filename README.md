@@ -6,7 +6,7 @@
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/tusharmit/(https://www.linkedin.com/in/vani-nigam-0707vn/)"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-</a> vani07nigam@gmail.com </a>
+
 <!--
 **Vani-Nigam07/Vani-Nigam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
