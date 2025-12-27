@@ -4,19 +4,9 @@
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vani-nigam/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
-  </a>&nbsp;&nbsp;
-
-  <a href="https://orcid.org/0009-0006-6020-5982" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/512/512128.png" alt="ORCID" width="40" height="40">
-  </a>&nbsp;&nbsp;
-
-  <a href="https://vani-nigam07.github.io/Portfolio/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="40" height="40">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-nigam/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6020-5982)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vani-nigam07.github.io/Portfolio/)
 ---
 
 ## 🛠 Tech Stack
