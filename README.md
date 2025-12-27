@@ -5,9 +5,17 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vani-nigam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vani Nigam" height="30" width="40" /></a>
-<a href="https://orcid.org/0009-0006-6020-5982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orcid.svg" alt="ORCID" height="30" width="40" /></a>
-<a href="https://vani-nigam07.github.io/Portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1246/1246351.png" alt="Portfolio" height="30" width="35" /></a>
+  <a href="https://www.linkedin.com/in/vani-nigam/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://orcid.org/0009-0006-6020-5982" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/512/512128.png" alt="ORCID" width="40" height="40">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://vani-nigam07.github.io/Portfolio/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" width="40" height="40">
+  </a>
 </p>
 ---
 
