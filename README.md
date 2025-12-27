@@ -1,23 +1,32 @@
-## Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hi there, I'm Vani Nigam 👋 
 
-
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/tusharmit/(https://www.linkedin.com/in/vani-nigam/))"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-
-<a href = "https://vani-nigam07.github.io/Portfolio/([https://vani-nigam07.github.io/Portfolio/]">
-
-<!--
-**Vani-Nigam07/Vani-Nigam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a passionate researcher and developer focused on leveraging technology to solve complex problems. My work sits at the intersection of data, innovation, and academic rigor.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vani-nigam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vani Nigam" height="30" width="40" /></a>
+<a href="https://orcid.org/0009-0006-6020-5982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/orcid.svg" alt="ORCID" height="30" width="40" /></a>
+<a href="https://vani-nigam07.github.io/Portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1246/1246351.png" alt="Portfolio" height="30" width="35" /></a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+* **Languages:** Python, SQL, [Add more]
+* **Tools:** Git, Docker, [Add more]
+* **Specialties:** Research Data Analysis, [Add more]
+
+---
+
+## 📊 GitHub Stats
+![Vani's GitHub stats](https://github-readme-stats.vercel.app/api?username=vani-nigam07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vani-nigam07&layout=compact&theme=radical)
