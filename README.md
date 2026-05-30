@@ -10,9 +10,9 @@
 ---
 
 ## 🛠 Tech Stack
-* **Languages:** Python, SQL, [Add more]
-* **Tools:** Git, Docker, [Add more]
-* **Specialties:** Research Data Analysis, [Add more]
+* **Languages:** Python, SQL
+* **Tools:** LAMMPS, DFT, Python simulations
+
 
 ---
 
